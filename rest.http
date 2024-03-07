@@ -1,0 +1,8 @@
+###Get All Employee
+GET http://localhost:3000/employee
+
+###Post new Employee
+POST http://localhost:3000/employee
+
+###Get all User
+GET http://localhost:3000/
